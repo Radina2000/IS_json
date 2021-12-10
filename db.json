@@ -24,91 +24,91 @@
     {
       "id": 1,
       "nume": "Muzeul de Etnografie",
-      "descriere": "Biserica Neagră este o biserica evanghelică. Edificiul a fost construit în jurul anului 1380 în stil gotic. Biserica, inițial catolică, a fost cunoscută mai întâi sub numele de Biserica Sfânta Maria. Clădirea a fost parțial distrusă după marele incendiu din 1689, când a primit numele actual.",
+      "descriere": "Biserica Neagră este o biserica evanghelică. Edificiul a fost construit în jurul anului 1380 în stil gotic.",
       "url": "https://coltisorderomania.ro/wp-content/uploads/2020/02/bn000.jpg",
       "categoryId": 1
     },
     {
       "id": 2,
       "nume": "Muzeul Casa Mureșenilor",
-      "descriere": "Si-a deschis porțile în anul 1968 în urma donațiilor făcute de urmașii familiei Mureșanu și se află astăzi în subordinea Consiliului Județean Brașov. Dacă ești pasionat de artă și istorie sau doar vrei să admiri colecții de mobilier vechi, diverse picturi, sculpturi și vechile manuscrise ale Mureșenilor, ai putea încerca o vizită și la acest muzeu.",
+      "descriere": "Si-a deschis porțile în anul 1968 în urma donațiilor făcute de urmașii familiei Mureșanu. Colecții de mobilier vechi, diverse picturi si sculpturi",
       "url": "https://www.iubescbrasovul.ro/images/articles/51/Muzeul-Casa-Muresenilor-1.jpg",
       "categoryId": 1
     },
     {
       "id": 3,
       "nume": "Muzeul Prima Școală Românească",
-      "descriere": "Clădirea care găzduiește Muzeul Prima Școală Românească datează din 1495, se află în interiorul curții Bisericii Sfântul Nicolae din Scheii Brașovului și este construită în stil baroc – aviz amatorilor de arhitectură, istorie sau dimpotrivă, amândouă.",
+      "descriere": "Prima Școală Românească datează din 1495, se află în curtea Bisericii Sfântul Nicolae și este construită în stil baroc.",
       "url": "https://brasov.fest.ro/files/places/2/image_241_4_preview.jpg",
       "categoryId": 1
     },
     {
       "id": 4,
       "nume": "Muzeul de Artă Brașov",
-      "descriere": "Apreciat atât de pasionații de artă cât și de publicul larg, acest muzeu se remarcă în special prin faptul că găzduiește periodic expoziții cu caracter național și internațional, ca de exemplu Salvador Dali sau Francisco de Goya, dar și prin colecția Nicolae Grigorescu, a doua ca mărime din România.",
+      "descriere": "Acest muzeu se remarcă în special prin faptul că găzduiește periodic expoziții cu caracter național și internațional.",
       "url": "https://brasovmetropolitan.ro/wp-content/uploads/2018/05/muzeu-arta-si-etnografie-brasov.jpg",
       "categoryId": 1
     },
     {
       "id": 5,
       "nume": "Muzeul Județean de Istorie Brașov",
-      "descriere": "Este singurul muzeu de istorie din Brașov și cuprinde obiecte din toate epocile istorice, de la începuturile umanității până în ziua de azi. Acest muzeu se remarcă, pe lângă colecțiile sale, și prin faptul că organizează periodic evenimente culturale pentru brașoveni (conferințe, festivaluri, dezbateri etc).",
+      "descriere": "Este singurul muzeu de istorie din Brașov și cuprinde obiecte din toate epocile istoricei.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Muzeul_Jude%C8%9Bean_de_Istorie_Brasov_-_panoramio.jpg",
       "categoryId": 1
     },
     {
       "id": 6,
       "nume": "Muntele Tâmpa",
-      "descriere": "Pentru a admira orașul Brașov în adevărata sa splendoare și pentru a te bucura de peisajele naturale deosebite, trebuie să urci pe muntele Tâmpa. Poți ajunge aici foarte ușor, cu telecabina, iar în timpul drumului poți avea o imagine de ansamblu asupra orașului și numeroaselor sale atracții turistice. Tot pe muntele Tâmpa vei vedea îndeaproape emblema orașului Brașov și te vei plimba pe marginea zidului cetății, unde vei admira împrejurimile și te vei bucura de aerul curat. ",
+      "descriere": "Pentru a admira orașul Brașov în adevărata sa splendoare și pentru a te bucura de peisajele naturale deosebite, trebuie să urci pe muntele Tâmpa. ",
       "url": "https://radsor.ro/stoardeh/2017/04/shutterstock_329893163-1140x699.jpg",
       "categoryId": 2
     },
     {
       "id": 7,
       "nume": "Poiana Brașov",
-      "descriere": "Poiana Brașov este o opțiune pentru petrecerea lunilor de vară datorită aerului curat de munte,ativităților de agrement de pe lacul artificial sau datorită drumețiilor pe potecile ce conduc spre diverse cabane, oferind peisaje uimitoare.",
+      "descriere": "Poiana Brașov este o opțiune minunata datorită aerului curat de munte,ativităților de agrement de pe lacul artificial sau datorită traseelor montane",
       "url": "https://coltisorderomania.ro/2019/04/30/poiana-brasov-cea-mai-populara-statiune-de-schi-din-romania/",
       "categoryId": 2
     },
     {
       "id": 8,
       "nume": "Lacul Noua",
-      "descriere": "Spațiul perfect pentru promenadă, lacul Noua îți oferă o priveliște minunată, indiferent de anotimp. Este locul perfect în care să te relaxezi alături de prieteni sau familie în mijlocul naturii. Iar, dacă te simți aventuros, apropierea de pădure îți permite să descoperi cele mai interesante trasee, atât pentru drumeții, cât și de parcurs pe două roți.",
+      "descriere": "Spațiul perfect pentru promenadă, îți oferă o priveliște minunată, indiferent de anotimp. Este locul perfect în care să te relaxezi alături de prieteni în mijlocul naturii.",
       "url": "https://cdn.cluj.com/ghidlocalcom/sites/6/2018/02/23417063_500285293666082_8129591604848623616_n.jpg",
       "categoryId": 2
     },
     {
       "id": 9,
       "nume": "Pietrele lui Solomon",
-      "descriere": "Zona este înconjurată fie de poveşti istorice, fie de legende mai mult sau mai puţin veridice.Tot aici găseşti un perete special amenajat pentru escaladare. Bineînţeles, zona face parte şi dintr-un ansamblu de trasee montane care fac deliciul turiştilor.",
+      "descriere": "Zona este înconjurată fie de poveşti istorice, fie de legende mai mult sau mai puţin veridice.Tot aici găseşti un perete special amenajat pentru escaladare.",
       "url": "https://cdn.shopify.com/s/files/1/0521/8009/1068/products/PNGTRPNT_797858CZ_V2_RGB_1024x1024@2x.png?v=1614787115",
       "categoryId": 2
     },
     {
       "id": 10,
       "nume": "Canionul Șapte Scări",
-      "descriere": "Este un defileu săpat în calcare jurasice de pârâul Şipoaia, în partea Vestică a Munților Piatra Mare. Canionul are în prezent nouă scări (până la amenajarea din 2013 erau 7, din lemn) de dimensiuni si dificultate diferite, cea mai lungă având 15 m - va fi foarte palpitant să urci pe ea paralel cu o mini-cascadă!",
+      "descriere": "Este un defileu săpat în calcare jurasice de pârâul Şipoaia, în partea Vestică a Munților Piatra Mare. Canionul are în prezent nouă scări de dimensiuni si dificultate diferite.",
       "url": "http://2.bp.blogspot.com/-MCGCbH8CDRw/ViI-IW3u0iI/AAAAAAAAMVY/jTSEPjFbFBs/s1600/DSC_0738.JPG",
       "categoryId": 2
     },
     {
       "id": 11,
       "nume": "MILLENIUM PUB & CAFE",
-      "descriere": "Millenium este un alt loc din Brasov care pune mare accent pe detalii, fie ca este vorba de mancare sau felul in care arata localul. Interiorul este ticsit cu obiecte vintage, iar meniul este plin de bunatati care vin la preturi foarte bune.",
+      "descriere": "Este un loc din Brasov care pune mare accent pe detalii. Interiorul este ticsit cu obiecte vintage, iar meniul este plin de bunatati.",
       "url": "https://scontent-otp1-1.xx.fbcdn.net/v/t1.6435-9/106936529_10160053297624745_2294441436400518997_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=XXX-jL7KFb0AX_oQrpD&tn=dHHK4Gme6yMmw-8a&_nc_ht=scontent-otp1-1.xx&oh=070ae6e2c084de2946827331f8957b8d&oe=61D80722",
       "categoryId": 3
     },
     {
       "id": 12,
       "nume": "BELVEDERE",
-      "descriere": "Un restaurant scump, dar a carui panorama face toti banii, fiind situat deasupra orasului, pe drumul spre Poiana, cu vedere peste Brasovul Vechi si Brasovul Nou.",
+      "descriere": "Este situat deasupra orasului, pe drumul spre Poiana, cu vedere peste Brasovul Vechi si Brasovul Nou.",
       "url": "https://storage.googleapis.com/bittwatt/1561722419704pFKO8ub34T0wcvtN_22600",
       "categoryId": 3
     },
     {
       "id": 13,
       "nume": "BISTRO DE L’ARTE",
-      "descriere": "Localul arata minunat, fiind situat intr-o cladire construita la sfarsitul secolului al XVI-lea, care a fost depozit de grane si piata de marfuri. Este o mica bijuterie ascunsa a Brasovului, iar atentia la detalii nu se rezuma la felul in care este aranjat bistroul. Veti gasi in meniu feluri rafinate de mancare, bazate pe produsele bucatariei europene.",
+      "descriere": "Localul arata minunat, fiind situat intr-o cladire construita la sfarsitul secolului al XVI-lea, care a fost depozit de grane si piata de marfuri. ",
       "url": "https://restograf.ro/wp-content/uploads/2015/08/bistro.jpg",
       "categoryId": 3
     },
@@ -122,7 +122,7 @@
     {
       "id": 15,
       "nume": "SUB TAMPA",
-      "descriere": "Sub Tâmpa aduce un concept unic în România: gastronomia transilvăneană neo-tradițională. Culese cu migală din cărți și manuscrise din timpuri îndepărtate, rețetele tradiționale românești sunt reinterpretate cu măiestrie.",
+      "descriere": "Sub Tâmpa aduce un concept unic în România: gastronomia transilvăneană neo-tradițională. Culese cu migală din cărți și manuscrise din timpuri îndepărtate.",
       "url": "https://biancadumitriu.ro/wp-content/uploads/2018/01/Restaurant-Tampa-4.jpg",
       "categoryId": 3
     },
@@ -136,14 +136,14 @@
     {
       "id": 17,
       "nume": "Poarta Ecaterinei",
-      "descriere": "Poarta Ecaterinei a fost construită, pentru a facilita accesul șcheienilor în Brașov, la mijlocul laturii dintre Bastionul Țesătorilor și cel al Fierarilor, pe locul unei vechi porți din secolul al XIV-lea sau al XV-lea",
+      "descriere": "Poarta Ecaterinei a fost construită, pentru a facilita accesul șcheienilor în Brașov, la mijlocul laturii dintre Bastionul Țesătorilor și cel al Fierarilor.",
       "url": "https://coroana-brasovului.ro/wp-content/uploads/2018/09/resize.jpg",
       "categoryId": 4
     },
     {
       "id": 18,
       "nume": "Turnul Alb",
-      "descriere": "Construit între anii 1460 și 1494, Turnul Alb impresionează și astăzi prin masivitatea și zveltețea liniilor sale arhitectonice. Rezumând arhitectura sa în date putem spune: plan semicircular deschis; peste 30 m diferență de nivel față de zidurile orașului",
+      "descriere": "Construit între anii 1460 și 1494, Turnul Alb impresionează și astăzi prin masivitatea și zveltețea liniilor sale arhitectonice.",
       "url": "https://cdn.shopify.com/s/files/1/0521/8009/1068/products/PNGTRPNT_299152C01_RGB_0e49ab7f-8fc7-4da8-b2c3-e80aa6bc86e9_1024x1024@2x.png?v=1609872152",
       "categoryId": 4
     },
@@ -157,14 +157,14 @@
     {
       "id": 20,
       "nume": "Bastionul Funarilor",
-      "descriere": "Bastionul Funarilor din Brașov este primul bastion menționat în documente, la 1416. De formă hexagonală, bastionul avea inițial 10-12 m în înălțime și era dotat cu guri de tragere pentru piese mobile.",
+      "descriere": "Este primul bastion menționat în documente, la 1416. De formă hexagonală, bastionul avea inițial 10-12 m în înălțime și era dotat cu guri de tragere pentru piese mobile.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Bastionul_Funarilor_din_Brasov.jpg",
       "categoryId": 4
     },
     {
       "id": 21,
       "nume": "Zoo Brasov",
-      "descriere": "Situată în partea de sud-est a Braşovului, în cartierul Noua, Grădina Zoologică Braşov este amplasată în mijlocul pădurii, într-un loc liniştit, ideal pentru bunăstarea animalelor şi pentru relaxarea vizitatorilor.",
+      "descriere": "Situată în partea de sud-est a Braşovului, în cartierul Noua, Grădina Zoologică Braşov este amplasată în mijlocul pădurii, într-un loc liniştit, ideal pentru bunăstarea animalelor.",
       "url": "https://zoobrasov.ro/wp-content/uploads/2020/03/Harta-Zoo-Brasov.jpg",
       "categoryId": 5
     },
@@ -185,7 +185,7 @@
     {
       "id": 24,
       "nume": "Cinema One",
-      "descriere": "Cinema One este un brand românesc. Este o destinație de distracție și un univers în care vei putea viziona filmele momentului, vei călători în marile capitale ale lumii și vei asista la spectacole unice găzduite de cele mai proeminente scene, vei intra într-un spațiu creat pentru tine și cei dragi, unde vedeta ești tu și invitații tăi.",
+      "descriere": "Este o destinație de distracție și un univers în care vei putea viziona filmele momentului, vei călători în marile capitale ale lumii și vei asista la spectacole unice.",
       "url": "https://www.zilesinopti.ro/media/481939765d8385c49e3af5.81509572.jpg/resize?w=750",
       "categoryId": 5
     },
