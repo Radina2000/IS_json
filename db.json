@@ -1,4 +1,4 @@
-"categories": [
+{"categories": [
     {
       "id": 1,
       "title": "Muzee"
@@ -20,7 +20,7 @@
       "title": "Entertainment"
     }
   ],
-  "Locatii": [
+  "locatii": [
     {
       "id": 1,
       "nume": "Muzeul de Etnografie",
@@ -197,3 +197,4 @@
       "categoryId": 5
     }
 	]
+	}
